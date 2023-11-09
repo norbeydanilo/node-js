@@ -14,7 +14,7 @@
 
 ### :computer: Exercises - modules, events, buffer, environment variables.
 
-:link: Follow this [repository](https://github.com/norbeydanilo/database-exercises.git). You can find exercises about modules, events, buffer and environment variables.
+:link: Follow this [repository](https://github.com/norbeydanilo/nodejs-exercises.git). You can find exercises about modules, events, buffer and environment variables.
 
 ### :computer: Exercise - Instalación Node.js.
 
