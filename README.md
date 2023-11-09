@@ -55,4 +55,4 @@ Si necesitas desinstalar Node.js, puedes hacerlo desde el panel de control de tu
 
 :blue_book: **Thanks!**
 
-> :bird: «¡Los datos! ¡Los datos! ¡Los datos!», gritó con impaciencia. «¡No puedo hacer ladrillos sin arcilla!»
+> :bird: «Cada cosa tiene su belleza, pero no todos pueden verla.»
