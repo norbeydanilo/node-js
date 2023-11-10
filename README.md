@@ -2,7 +2,7 @@
 
 ## Topics :memo:
 
-:open_file_folder: This repository contains the topics about databases (Unit-08):
+:open_file_folder: This repository contains the topics about Node.js (Unit-08):
 
 1. NodeJS I: introducción, generalidades.
 2. NodeJS II: módulos.
